@@ -2,11 +2,11 @@
   <a href="https://faio.kz">
     <img height="140" src="https://raw.githubusercontent.com/faio-official/faio-2025/main/logo.png" alt="FAIO logo"/>
   </a>
-  <br/>FAIO — Fizmat AI Olympiad
+  <br/>FAIO — AI Olympiad
 </h1>
 
 <p align="center">
-  🎓 Official repositories of the Fizmat AI Olympiad — tasks, solutions & starter kits, one repository per year.
+  🎓 Official repositories of FAIO — tasks, solutions & starter kits, one repository per year.
 </p>
 
 <p align="center">
