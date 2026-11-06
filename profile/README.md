@@ -20,6 +20,7 @@
 
 | Year | Rounds | Repository |
 |------|--------|------------|
+| **2026** | Day 1 · Day 2 — EN / KZ / RU, upsolvable on [contest.faio.kz](https://contest.faio.kz) | [faio-2026](https://github.com/faio-official/faio-2026) |
 | **2025** | Qualification · 1st Round · 2nd Round | [faio-2025](https://github.com/faio-official/faio-2025) |
 | **2024** | Qualification · Main competition | [faio-2024](https://github.com/faio-official/faio-2024) |
 
