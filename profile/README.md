@@ -22,10 +22,10 @@
 |------|--------|------------|
 | **2026** | [Qualification](https://contest.faio.kz/spaces/01a173b3-9e37-735d-a65c-c8495e265687/contests/qualification) · [Day 1](https://contest.faio.kz/spaces/01a173b3-9e37-735d-a65c-c8495e265687/contests/day-1) · [Day 2](https://contest.faio.kz/spaces/01a173b3-9e37-735d-a65c-c8495e265687/contests/day-2) | [faio-2026](https://github.com/faio-official/faio-2026) |
 | **2025** | [Qualification](https://contest.faio.kz/spaces/01a18d67-2f61-711b-a432-62be007e9544/contests/qualification) · [Day 1](https://contest.faio.kz/spaces/01a18d67-2f61-711b-a432-62be007e9544/contests/day-1) · [Day 2](https://contest.faio.kz/spaces/01a18d67-2f61-711b-a432-62be007e9544/contests/day-2) | [faio-2025](https://github.com/faio-official/faio-2025) |
-| **2024** | [Final](https://contest.faio.kz/spaces/01a1b4cb-0bab-7664-985a-1ecb5927c239/contests/final) · Qualification (statements only) | [faio-2024](https://github.com/faio-official/faio-2024) |
+| **2024** | [Qualification](https://contest.faio.kz/spaces/01a1b4cb-0bab-7664-985a-1ecb5927c239/contests/qualification) · [Final](https://contest.faio.kz/spaces/01a1b4cb-0bab-7664-985a-1ecb5927c239/contests/final) | [faio-2024](https://github.com/faio-official/faio-2024) |
 
 Each repository holds that year's problem statements, translations (Қазақша / Русский),
-baselines and reference solutions. Everything is published for learning, practice and archival use.
+figures and the original contest exports. Everything is published for learning, practice and archival use.
 
 ---
 
