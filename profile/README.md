@@ -48,6 +48,11 @@ baselines and reference solutions. Everything is published for learning, practic
   <a href="https://github.com/kuanyshoteu"><img src="https://github.com/kuanyshoteu.png?size=100" width="80" height="80" alt="kuanyshoteu" /></a>
   <a href="https://github.com/nzhakin"><img src="https://github.com/nzhakin.png?size=100" width="80" height="80" alt="nzhakin" /></a>
   <a href="https://github.com/Meiram-sys"><img src="https://github.com/Meiram-sys.png?size=100" width="80" height="80" alt="Meiram-sys" /></a>
+  <a href="https://github.com/carson-cheng"><img src="https://github.com/carson-cheng.png?size=100" width="80" height="80" alt="carson-cheng" /></a>
+  <a href="https://github.com/mansur007"><img src="https://github.com/mansur007.png?size=100" width="80" height="80" alt="mansur007" /></a>
+  <a href="https://github.com/llmaza"><img src="https://github.com/llmaza.png?size=100" width="80" height="80" alt="llmaza" /></a>
+  <a href="https://github.com/aidosnurmash"><img src="https://github.com/aidosnurmash.png?size=100" width="80" height="80" alt="aidosnurmash" /></a>
+  <a href="https://github.com/progyan"><img src="https://github.com/progyan.png?size=100" width="80" height="80" alt="progyan" /></a>
 </p>
 
 ---
