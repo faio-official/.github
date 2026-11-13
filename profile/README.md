@@ -55,6 +55,7 @@ figures and the original contest exports. Everything is published for learning, 
   <a href="https://github.com/aidosnurmash"><img src="https://github.com/aidosnurmash.png?size=100" width="80" height="80" alt="aidosnurmash" /></a>
   <a href="https://github.com/progyan"><img src="https://github.com/progyan.png?size=100" width="80" height="80" alt="progyan" /></a>
   <a href="https://github.com/Mazgagzam"><img src="https://github.com/Mazgagzam.png?size=100" width="80" height="80" alt="Mazgagzam" /></a>
+  <a href="https://github.com/Yerniyaz"><img src="https://github.com/Yerniyaz.png?size=100" width="80" height="80" alt="Yerniyaz" /></a>
 </p>
 
 ---
